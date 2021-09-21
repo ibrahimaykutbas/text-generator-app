@@ -9,7 +9,7 @@ ReactJS
 - Thunk
 ## Features
 - Ability to return text according to the value entered from the input
-- Ability to return text or HTML tag (<p>) type value according to the value from the input.
+- Ability to return text or HTML tag `<p>` type value according to the value from the input.
 - Input value can be at least 1.
 ## Getting Started
 Clone this repository on your local machine.<br/><br/>
