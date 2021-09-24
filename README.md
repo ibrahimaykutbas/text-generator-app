@@ -1,5 +1,4 @@
 # Text Genetator
-![ss](https://user-images.githubusercontent.com/80921107/134745898-3cc111ce-69de-4a76-ad0b-d29e347d0849.png)
 [Project Link](https://text-generator-app-7a4f9.web.app/)
 ## Built With
 ReactJS
