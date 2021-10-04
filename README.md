@@ -3,9 +3,9 @@
 ![ss](https://user-images.githubusercontent.com/80921107/134781683-f0171ab0-4e8c-47c7-85b2-d5a1a75a8823.png)
 ![ss1](https://user-images.githubusercontent.com/80921107/134781716-9674c24f-32fd-4e15-8fcc-aa07defb22ed.png)
 
-[Project Link](https://text-generator-app-7a4f9.web.app/)
+[Proje sayfasına gitmek için buraya tıklayın..](https://text-generator-app-7a4f9.web.app/)
 
-## Built With
+## Kurulum
 
 ReactJS
 
@@ -16,55 +16,53 @@ ReactJS
 - Hooks
 - Thunk
 
-## Features
+## Özellikler
 
-- Ability to return text according to the value entered from the input.
-- Ability to return text or HTML tag `<p>` type value according to the value from the input.
-- Input value can be at least 1.
+- Inputtan girilen değere göre metin döndürme özelliği.
+- Girilen değere göre metin veya HTML etiketi `<p>` tipi değeri döndürebilme.
+- Giriş değeri en az 1 olabilir.
 
-## Getting Started
+## Başlangıç
 
-### Installation
-
-Clone this repository on your local machine.
+Bu depoyu yerel makinenizde klonlayın.
 
 ```
 git clone https://github.com/ibrahimaykutbas/text-generator-app
 ```
 
-### Usage
+### Kullanım
 
-To use after cloning the project:
+Projeyi klonladıktan sonra kullanmak için:
 
 ```
 cd text-generator-app
 cd .
 ```
 
-Run the following commands into the project folder to install project dependencies.
+Proje bağımlılıklarını yüklemek için proje klasörüne aşağıdaki komutları çalıştırın.
 
 ```
 npm init
 npm install
 ```
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Bu talimatlar, geliştirme ve test amacıyla yerel makinenizde projenin bir kopyasını hazır ve çalışır hale getirecektir.
 
-## Available Scripts
+## Kullanılabilir Komut Dosyaları
 
-In the project directory, you can run:
+Proje dizininde şunları çalıştırabilirsiniz:
 
 ```
 npm start
 ```
 
-Runs the app in the development mode.
+Uygulamayı geliştirme modunda çalıştırır.
 
 ```
 http://localhost:3000
 ```
 
-## Learn More
-You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
+## Daha Fazla Bilgi İçin
+Daha fazlasını şuradan öğrenebilirsiniz: [Create React App documentation](https://create-react-app.dev/docs/getting-started/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+React'i öğrenmek için şuraya göz atın: [React documentation](https://reactjs.org/)
